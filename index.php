@@ -8,7 +8,7 @@
 </head>
 <body>
 <script
-    src="https://www.paypal.com/sdk/js?client-id=AQw27ZtW8pHlEENcmlGyokDl60-2qqKx4IXuQPu1NNduQu238gV2jQfA7JgxwrREUWpdaFbuYRibgT2o&currency=PHP"> // Required. Replace YOUR_CLIENT_ID with your sandbox client ID.
+    src="https://www.paypal.com/sdk/js?client-id=<YOUR_CLIENT_ID_HERE>&currency=PHP"> // Required. Replace YOUR_CLIENT_ID with your sandbox client ID.
   </script>
     <div style="display:flex;">
         <img src="./product.png" width="300" alt="">
